@@ -1,0 +1,1 @@
+# Mean-field-methods-for-ultracold-atoms-trapped-in-an-harmonic-potential
